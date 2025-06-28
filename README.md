@@ -7,3 +7,5 @@ The goal of this is to have a static compiled executable that I can clone pass i
     - equires sudo
 - [x] neovim
 - [ ] [swift](https://www.swift.org/install/)
+- [ ] [wezterm](https://wezterm.org)
+    - `brew install --cask wezterm`
